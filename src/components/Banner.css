@@ -23,6 +23,7 @@
     width: min-content !important;
     padding-left: 2.3rem;
     margin-left: 0px !important;
+    /* border: 1px solid red; */
   }
 
   .banner__description {
@@ -104,15 +105,4 @@
 .play {
   background-color: white;
   color: black;
-}
-
-.element {
-  inset: 1em 2em 3em 0;
-  /* top right bottom left */
-  inset: 10% 5% -10%;
-  /* top left/right bottom */
-  inset: 0 10px;
-  /* top/bottom left/right */
-  inset: 20px;
-  /* all edges = 20px */
 }
